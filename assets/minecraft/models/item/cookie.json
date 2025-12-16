@@ -1,0 +1,7 @@
+{
+  "format_version": "1.21.6",
+  "parent": "item/bebis",
+  "textures": {
+   	"item": "item/cookie"
+  }
+}
