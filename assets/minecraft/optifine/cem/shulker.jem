@@ -1,0 +1,68 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [112, 112],
+	"texture": "textures/item/bebis.png",
+	"models": [
+		{
+			"part": "lid",
+			"id": "lid",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"texture": "textures/item/cookie.png",
+			"textureSize": [16, 16],
+			"boxes": [
+				{
+					"coordinates": [-8, 8, -8, 16, 8, 16],
+					"uvNorth": [3, 4, 13, 8],
+					"uvEast": [3, 4, 13, 8],
+					"uvSouth": [3, 4, 13, 8],
+					"uvWest": [3, 4, 13, 8],
+					"uvUp": [12, 12, 4, 4]
+				}
+			]
+		},
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"texture": "textures/item/cookie.png",
+			"textureSize": [16, 16],
+			"submodels": [
+				{
+					"id": "base_rot",
+					"invertAxis": "xy",
+					"translate": [-12, 16, 0],
+					"rotate": [-180, 0, 0],
+					"boxes": [
+						{
+							"coordinates": [4, 8, -8, 16, 8, 16],
+							"uvNorth": [3, 12, 13, 8],
+							"uvEast": [3, 12, 13, 8],
+							"uvSouth": [3, 12, 13, 8],
+							"uvWest": [3, 12, 13, 8],
+							"uvUp": [12, 12, 4, 4]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -12, 0],
+			"boxes": [
+				{
+					"coordinates": [-3, 6, -3, 6, 6, 6],
+					"uvNorth": [29, 25, 91, 89],
+					"uvEast": [74, 74, 89, 88],
+					"uvSouth": [74, 74, 89, 88],
+					"uvWest": [74, 74, 89, 88],
+					"uvUp": [74, 74, 89, 88],
+					"uvDown": [74, 74, 89, 88]
+				}
+			]
+		}
+	]
+}

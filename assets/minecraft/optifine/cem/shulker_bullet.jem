@@ -1,0 +1,85 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 32],
+	"texture": "textures/item/cookie.png",
+	"models": [
+		{
+			"part": "bullet",
+			"id": "bullet",
+			"invertAxis": "xy",
+			"translate": [0, -4, 0],
+			"submodels": [
+				{
+					"id": "cookie",
+					"invertAxis": "xy",
+					"translate": [-8, -4, -0.5],
+					"boxes": [
+						{
+							"coordinates": [5, 2, 0, 6, 12, 1],
+							"uvNorth": [44, 4, 20, 28],
+							"uvEast": [40, 4, 44, 28],
+							"uvSouth": [20, 4, 44, 28],
+							"uvWest": [20, 4, 24, 28],
+							"uvUp": [20, 4, 44, 6],
+							"uvDown": [20, 26, 44, 28]
+						},
+						{
+							"coordinates": [3, 3, 0, 2, 10, 1],
+							"uvNorth": [20, 6, 12, 26],
+							"uvEast": [16, 6, 20, 26],
+							"uvSouth": [12, 6, 20, 26],
+							"uvWest": [12, 6, 16, 26],
+							"uvUp": [12, 6, 20, 8],
+							"uvDown": [12, 24, 20, 26]
+						},
+						{
+							"coordinates": [11, 3, 0, 2, 10, 1],
+							"uvNorth": [52, 6, 44, 26],
+							"uvEast": [48, 6, 52, 26],
+							"uvSouth": [44, 6, 52, 26],
+							"uvWest": [44, 6, 48, 26],
+							"uvUp": [44, 6, 52, 8],
+							"uvDown": [44, 24, 52, 26]
+						},
+						{
+							"coordinates": [2, 4, 0, 1, 8, 1],
+							"uvNorth": [12, 8, 8, 24],
+							"uvEast": [8, 8, 12, 24],
+							"uvSouth": [8, 8, 12, 24],
+							"uvWest": [8, 8, 12, 24],
+							"uvUp": [8, 8, 12, 10],
+							"uvDown": [8, 22, 12, 24]
+						},
+						{
+							"coordinates": [13, 4, 0, 1, 8, 1],
+							"uvNorth": [56, 8, 52, 24],
+							"uvEast": [52, 8, 56, 24],
+							"uvSouth": [52, 8, 56, 24],
+							"uvWest": [52, 8, 56, 24],
+							"uvUp": [52, 8, 56, 10],
+							"uvDown": [52, 22, 56, 24]
+						},
+						{
+							"coordinates": [1, 5, 0, 1, 6, 1],
+							"uvNorth": [8, 10, 4, 22],
+							"uvEast": [4, 10, 8, 22],
+							"uvSouth": [4, 10, 8, 22],
+							"uvWest": [4, 10, 8, 22],
+							"uvUp": [4, 10, 8, 12],
+							"uvDown": [4, 20, 8, 22]
+						},
+						{
+							"coordinates": [14, 5, 0, 1, 6, 1],
+							"uvNorth": [60, 10, 56, 22],
+							"uvEast": [56, 10, 60, 22],
+							"uvSouth": [56, 10, 60, 22],
+							"uvWest": [56, 10, 60, 22],
+							"uvUp": [56, 10, 60, 12],
+							"uvDown": [56, 20, 60, 22]
+						}
+					]
+				}
+			]
+		}
+	]
+}
