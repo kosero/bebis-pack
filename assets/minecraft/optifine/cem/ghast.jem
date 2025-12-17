@@ -1,0 +1,138 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [112, 112],
+	"texture": "textures/item/bebis.png",
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -20, 0],
+			"boxes": [
+				{
+					"coordinates": [-8, 12, -8, 16, 16, 16],
+					"uvNorth": [28, 25, 90, 89],
+					"uvEast": [75, 68, 91, 84],
+					"uvSouth": [75, 68, 91, 84],
+					"uvWest": [75, 68, 91, 84],
+					"uvUp": [75, 68, 91, 84],
+					"uvDown": [75, 68, 91, 84]
+				}
+			]
+		},
+		{
+			"part": "tentacle1",
+			"id": "tentacle1",
+			"invertAxis": "xy",
+			"translate": [-3.7, -13, 5],
+			"submodels": [
+				{
+					"id": "tentacle1_fix",
+					"invertAxis": "xy",
+					"translate": [-1.7, 13, 0],
+					"rotate": [0, 0, -45],
+					"boxes": [
+						{
+							"coordinates": [2.7, 9, -6, 2, 4, 2],
+							"uvNorth": [83, 69, 85, 81],
+							"uvEast": [83, 69, 85, 81],
+							"uvSouth": [83, 69, 85, 81],
+							"uvWest": [83, 69, 85, 81],
+							"uvUp": [83, 69, 85, 81],
+							"uvDown": [83, 69, 85, 81]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "tentacle2",
+			"id": "tentacle2",
+			"invertAxis": "xy",
+			"translate": [1.3, -13, 5],
+			"submodels": [
+				{
+					"id": "tentacle2_fix",
+					"invertAxis": "xy",
+					"translate": [4.3, 13, 0],
+					"rotate": [0, 0, 45],
+					"boxes": [
+						{
+							"coordinates": [-7.3, 9, -6, 2, 4, 2],
+							"uvNorth": [83, 69, 85, 81],
+							"uvEast": [83, 69, 85, 81],
+							"uvSouth": [83, 69, 85, 81],
+							"uvWest": [83, 69, 85, 81],
+							"uvUp": [83, 69, 85, 81],
+							"uvDown": [83, 69, 85, 81]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "tentacle3",
+			"id": "tentacle3",
+			"invertAxis": "xy",
+			"translate": [6.3, -13, 5]
+		},
+		{
+			"part": "tentacle4",
+			"id": "tentacle4",
+			"invertAxis": "xy",
+			"translate": [-6.3, -13, 0]
+		},
+		{
+			"part": "tentacle5",
+			"id": "tentacle5",
+			"invertAxis": "xy",
+			"translate": [-1.3, -13, 0]
+		},
+		{
+			"part": "tentacle6",
+			"id": "tentacle6",
+			"invertAxis": "xy",
+			"translate": [3.7, -13, 0]
+		},
+		{
+			"part": "tentacle7",
+			"id": "tentacle7",
+			"invertAxis": "xy",
+			"translate": [-3.7, -13, -5],
+			"boxes": [
+				{
+					"coordinates": [4, 8, 4, 2, 4, 2],
+					"uvNorth": [85, 71, 87, 83],
+					"uvEast": [83, 69, 85, 81],
+					"uvSouth": [89, 71, 91, 83],
+					"uvWest": [87, 71, 89, 83],
+					"uvUp": [87, 71, 85, 69],
+					"uvDown": [89, 69, 87, 71]
+				}
+			]
+		},
+		{
+			"part": "tentacle8",
+			"id": "tentacle8",
+			"invertAxis": "xy",
+			"translate": [1.3, -13, -5],
+			"boxes": [
+				{
+					"coordinates": [-6, 8, 3.9, 2, 4, 2],
+					"uvNorth": [83, 69, 85, 81],
+					"uvEast": [83, 69, 85, 81],
+					"uvSouth": [83, 69, 85, 81],
+					"uvWest": [83, 69, 85, 81],
+					"uvUp": [4, 2, 2, 0],
+					"uvDown": [83, 69, 85, 81]
+				}
+			]
+		},
+		{
+			"part": "tentacle9",
+			"id": "tentacle9",
+			"invertAxis": "xy",
+			"translate": [6.3, -13, -5]
+		}
+	]
+}
