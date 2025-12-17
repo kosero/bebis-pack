@@ -1,0 +1,30 @@
+{
+  "item.minecraft.totem_of_undying": "Totem of Bebis",
+
+  "item.minecraft.ghast_tear": "Bebis Tear",
+  "block.minecraft.dried_ghast": "Dried Bebis",
+  "item.minecraft.ghast_spawn_egg": "Bebis Spawn Egg",
+  "item.minecraft.happy_ghast_spawn_egg": "Bebis Spawn Egg",
+
+  "item.minecraft.shulker_shell": "Bebis Shell",
+  "item.minecraft.shulker_spawn_egg": "Bebis Spawn Egg",
+  "block.minecraft.shulker_box": "Cookie Box",
+  "block.minecraft.black_shulker_box": "Black Cookie Box",
+  "block.minecraft.blue_shulker_box": "Blue Cookie Box",
+  "block.minecraft.brown_shulker_box": "Brown Cookie Box",
+  "block.minecraft.cyan_shulker_box": "Cyan Cookie Box",
+  "block.minecraft.gray_shulker_box": "Gray Cookie Box",
+  "block.minecraft.green_shulker_box": "Green Cookie Box",
+  "block.minecraft.light_blue_shulker_box": "Light Blue Cookie Box",
+  "block.minecraft.light_gray_shulker_box": "Light Gray Cookie Box",
+  "block.minecraft.lime_shulker_box": "Lime Cookie Box",
+  "block.minecraft.magenta_shulker_box": "Magenta Cookie Box",
+  "block.minecraft.orange_shulker_box": "Orange Cookie Box",
+  "block.minecraft.pink_shulker_box": "Pink Cookie Box",
+  "block.minecraft.purple_shulker_box": "Purple Cookie Box",
+  "block.minecraft.red_shulker_box": "Red Cookie Box",
+  "block.minecraft.white_shulker_box": "White Cookie Box",
+  "block.minecraft.yellow_shulker_box": "Yellow Cookie Box",
+  "entity.minecraft.shulker": "Bebis",
+  "entity.minecraft.shulker_bullet": "Bebis Cookie"
+}

@@ -1,0 +1,30 @@
+{
+  "item.minecraft.totem_of_undying": "Bebiş Totemi",
+
+  "item.minecraft.ghast_tear": "Bebiş Gözyaşı",
+  "block.minecraft.dried_ghast": "Kurumuş Bebiş",
+  "item.minecraft.ghast_spawn_egg": "Bebiş Çağırma Yumurtası",
+  "item.minecraft.happy_ghast_spawn_egg": "Bebiş Çağırma Yumurtası",
+
+  "item.minecraft.shulker_shell": "Bebiş Kabuğu",
+  "item.minecraft.shulker_spawn_egg": "Bebiş Çağırma Yumurtası",
+  "block.minecraft.shulker_box": "Kurabiye Kutusu",
+  "block.minecraft.black_shulker_box": "Siyah Kurabiye Kutusu",
+  "block.minecraft.blue_shulker_box": "Mavi Kurabiye Kutusu",
+  "block.minecraft.brown_shulker_box": "Kahverengi Kurabiye Kutusu",
+  "block.minecraft.cyan_shulker_box": "Camgöbeği Kurabiye Kutusu",
+  "block.minecraft.gray_shulker_box": "Gri Kurabiye Kutusu",
+  "block.minecraft.green_shulker_box": "Yeşil Kurabiye Kutusu",
+  "block.minecraft.light_blue_shulker_box": "Açık Mavi Kurabiye Kutusu",
+  "block.minecraft.light_gray_shulker_box": "Açık Gri Kurabiye Kutusu",
+  "block.minecraft.lime_shulker_box": "Açık Yeşil Kurabiye Kutusu",
+  "block.minecraft.magenta_shulker_box": "Eflatun Kurabiye Kutusu",
+  "block.minecraft.orange_shulker_box": "Turuncu Kurabiye Kutusu",
+  "block.minecraft.pink_shulker_box": "Pembe Kurabiye Kutusu",
+  "block.minecraft.purple_shulker_box": "Mor Kurabiye Kutusu",
+  "block.minecraft.red_shulker_box": "Kırmızı Kurabiye Kutusu",
+  "block.minecraft.white_shulker_box": "Beyaz Kurabiye Kutusu",
+  "block.minecraft.yellow_shulker_box": "Sarı Kurabiye Kutusu",
+  "entity.minecraft.shulker": "Bebiş",
+  "entity.minecraft.shulker_bullet": "Bebiş Kurabiyesi"
+}
